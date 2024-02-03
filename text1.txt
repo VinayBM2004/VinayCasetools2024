@@ -1,4 +1,5 @@
-Hello, This is the First txt file.
-the date is 06/01/2024.
-Name:Vinay BM
-Roll: 2205041
+Hello, This is Vinay doing Git Bash in Lab 3
+dated 09/01/2024.
+Thank You.
+THis line is added in the 2nd edit.
+Git diff is done only after Saving the File and before Staging it.
